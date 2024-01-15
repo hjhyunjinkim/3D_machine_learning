@@ -1,5 +1,5 @@
 ## KAIST Geometric AI Lab - Tutorial 1
-Instructor: [Minhyuk Sung](https://mhsung.github.io/) (mhsung@kaist.ac.kr)
+Principal Investigator: [Minhyuk Sung](https://mhsung.github.io/) (mhsung@kaist.ac.kr)
 
 Session Host: **Hyunjin Kim** (Lead), **Eunji Hong** (Support)
 
